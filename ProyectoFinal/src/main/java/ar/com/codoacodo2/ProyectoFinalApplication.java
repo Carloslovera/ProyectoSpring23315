@@ -1,4 +1,4 @@
-package ar.com.codoacodo2.ProyectoFinal;
+package ar.com.codoacodo2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
